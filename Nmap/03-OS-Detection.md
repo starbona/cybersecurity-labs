@@ -8,7 +8,7 @@ sudo nmap -O example.com
 
 ## Screenshot
 
-![OS Detection](screenshots/os-detection.png)
+![OS Detection](screenshots/kali-linux-2024.4-vmware-amd64-2026-08-02-01-03-19.png)
 
 ## Findings
 
