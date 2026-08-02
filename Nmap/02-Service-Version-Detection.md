@@ -8,7 +8,7 @@ sudo nmap -sV example.com
 
 ## Screenshot
 
-![Service Version](screenshots/service-version.png)
+![Service Version](screenshots/kali-linux-2024.4-vmware-amd64-2026-08-02-01-02-41.png)
 
 ## Findings
 
