@@ -8,7 +8,7 @@ sudo nmap -A example.com
 
 ## Screenshot
 
-![Aggressive Scan](screenshots/Aggressiv-scan.png)
+![Aggressive Scan](screenshots/aggressive-scan.png)
 
 ## Findings
 
