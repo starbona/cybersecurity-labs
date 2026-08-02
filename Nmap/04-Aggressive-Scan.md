@@ -8,7 +8,7 @@ sudo nmap -A example.com
 
 ## Screenshot
 
-![Aggressive Scan](screenshots/aggressive-scan.png)
+![Aggressive Scan](screenshots/kali-linux-2024.4-vmware-amd64-2026-08-02-01-32-19.png)
 
 ## Findings
 
