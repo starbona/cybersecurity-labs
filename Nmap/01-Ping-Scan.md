@@ -11,7 +11,7 @@ ping -c 4 example.com
 
 ## Output
 
-![Ping Scan](screenshots/ping-scanpng)
+![Ping Scan](screenshots/ping-scan.png)
 
 ## Findings
 
