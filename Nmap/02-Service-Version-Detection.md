@@ -8,7 +8,7 @@ sudo nmap -sV example.com
 
 ## Screenshot
 
-![Service Version](screenshots/ping-scan.png)
+![Service Version](screenshots/png-scan.png)
 
 ## Findings
 
