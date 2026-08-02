@@ -11,7 +11,7 @@ ping -c 4 example.com
 
 ## Output
 
-![Ping Scan](screenshots/kali-linux-2024.4-vmware-amd64-2026-08-02-01-02-41.png)
+![Ping Scan](screenshots/ping-scanpng)
 
 ## Findings
 
