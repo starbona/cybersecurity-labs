@@ -1,8 +1,7 @@
-# Lab 01 - Ping Scan
+# Lab 01 – Ping Scan
 
 ## Objective
-
-Verify network connectivity and determine whether the target host is reachable.
+Determine whether the target host is online using Nmap.
 
 ## Command Used
 
@@ -10,30 +9,18 @@ Verify network connectivity and determine whether the target host is reachable.
 ping -c 4 example.com
 ```
 
-## What the command does
+## Output
 
-- Sends four ICMP Echo Requests.
-- Measures network latency.
-- Confirms whether the host is online.
+![Ping Scan](screenshots/ping-scan.png)
 
-## Observations
+## Findings
 
-- Host responded successfully.
-- 0% packet loss.
-- Average latency was approximately 64 ms.
-- Network connectivity was confirmed.
+- The target responded successfully.
+- 0% packet loss was observed.
+- The host is reachable.
 
 ## Skills Practiced
 
+- Host discovery
 - ICMP
-- Network troubleshooting
-- Connectivity testing
-- Linux terminal usage
-
-## Screenshot
-
-(Add your screenshot here later.)
-
-## Lessons Learned
-
-Ping is one of the simplest network diagnostic tools and is often the first step before conducting deeper network enumeration.
+- Basic network reconnaissance
